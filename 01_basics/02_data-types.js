@@ -18,7 +18,7 @@
     // 7. BigInt : also a number but with big values 
     const creditLimit = 9876543n // using n in the end represents that this is a bigInt 
 
-// NON-PREMITIVE (Reference type) (all non-premitive datatype returns as object)
+// NON-PRIMITIVE (Reference type) (all non-primitive datatype returns as object)
     // 1. array : ["hamja", "nik", "gaurav"]
     // 2. objects:  objects are difined in key value pairs 
     let obj = {
